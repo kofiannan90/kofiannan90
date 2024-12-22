@@ -1,7 +1,8 @@
 # Hi there, I'm Kofi Annan! 👋
 
 ### 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BnoDzBWWnQn6NdX1Z6ANSIw%3D%3D)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
 
 ### 💼 About Me
